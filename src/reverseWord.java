@@ -13,7 +13,7 @@ public class reverseWord {
 	    StringBuffer r= new StringBuffer(s1);
 	    StringBuffer r1= new StringBuffer(s2);
 		System.out.println("string reverse is:"+s+r.reverse()+s+r1.reverse());
-		System.out.println("code changes);
+		System.out.println("code changes");
 		
 	}
 
